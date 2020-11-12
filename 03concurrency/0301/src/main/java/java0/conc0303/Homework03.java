@@ -13,6 +13,8 @@ public class Homework03 {
         
         long start=System.currentTimeMillis();
         // 在这里创建一个线程或线程池，
+
+
         // 异步执行 下面方法
         
         int result = sum(); //这是得到的返回值
